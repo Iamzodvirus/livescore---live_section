@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;600&display=swap");
+.ha {
+  background-color: red !important;
+}
+
+.ull {
+  color: white !important;
+  font-size: 1rem;
+}
+
+.ulll:hover {
+  color: black !important;
+  font-weight: bolder;
+}
+
+.bot {
+  background-color: red;
+  color: white;
+  font-size: 1.5rem;
+}/*# sourceMappingURL=style.css.map */
